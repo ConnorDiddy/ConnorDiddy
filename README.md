@@ -4,5 +4,5 @@
 - 📫 How to reach me: 
 - Phone: 435-224-4986
 - Email: connordidericksen@gmail.com
-- connordidericksen@gmail.com
+- Website: http://connordidericksen@gmail.com
 
