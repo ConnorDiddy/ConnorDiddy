@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Connor Didericksen
 - 👀 I’m a passionate software engineering student at Utah Tech University
-- 🌱 I’m currently working on a web app for expense tracking called marmo. See it [here](https://marmo.app)
 - 📫 How to reach me: 
 - Phone: 435-224-4986
 - Email: connordidericksen@gmail.com
