@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Connor Didericksen
-- 👀 I’m a passionate software engineering student at Utah Tech University
+- 👀 I’m a passionate software engineer
 - 📫 How to reach me: 
 - Phone: 435-224-4986
 - Email: connordidericksen@gmail.com
